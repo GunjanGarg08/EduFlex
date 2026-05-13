@@ -11,6 +11,9 @@ import courseRouter from './routes/courseRoute.js'
 
 // import bodyParser from 'body-parser';
 
+// import dns from "node:dns";
+// dns.setServers(["8.8.8.8", "8.8.4.4", "1.1.1.1"]);
+
 // Initialize Express
 const app = express()
 
